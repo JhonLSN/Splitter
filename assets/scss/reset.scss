@@ -25,6 +25,19 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	background-color: #c5e4e7;
+	font-family: 'Space Mono', monospace;	
+
+	// Remove Arrows Of Input Numbers I
+	input::-webkit-outer-spin-button,
+	input::-webkit-inner-spin-button {
+		-webkit-appearance: none;
+	}
+
+	// Remove Arrows Of Input Numbers II
+	input[type="number"] {
+		-moz-appearance: textfield;
+	}
 }
 ol, ul {
 	list-style: none;
