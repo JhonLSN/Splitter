@@ -1,1 +1,37 @@
+.main {
+  &-wrapper {
+    width: 50%;
+    margin: 0 auto;
+    background: #fff;
+    padding: 40px;
+    display: flex;
+    align-content: center;
 
+    &__card01{
+      width: 50%;
+
+      &__bill{
+        &-label{
+          color: #6f797b;
+        }
+
+        &-input{
+          position: relative;
+          &-number{
+            width: 80%;
+          }
+
+          & img{
+            position: absolute;
+            left: 0; 
+          }
+        }
+      }
+    }
+
+    &__card02{
+      background-color: #00474b;
+      width: 50%;
+    }
+  }
+}
