@@ -6,30 +6,49 @@
     padding: 40px;
     display: flex;
     align-content: center;
+    border-radius: 20px;
 
-    &__card01{
+    &__card01 {
       width: 50%;
 
-      &__bill{
-        &-label{
+      &__bill {
+        &-label {
           color: #6f797b;
         }
 
-        &-input{
+        &-input {
           position: relative;
-          &-number{
+          margin-top: 10px;
+
+          &-number {
             width: 80%;
+            text-align: end;
+            padding: 1px 2px 1px 22px;
+            font-size: 1.4rem;
+            border: 2px solid #f3f8fb;
+            background: #f3f8fb;
+            border-radius: 5px;
+            outline: none;
+            color: #00474b;
+            font-family: "Space Mono", monospace;
+            transition: all ease 0.3s;
+
+            &:focus {
+              border: 2px solid #24c8b0;
+              transition: all ease 0.3s;
+            }
           }
 
-          & img{
+          & img {
             position: absolute;
-            left: 0; 
+            left: 7px;
+            top: 11px;
           }
         }
       }
     }
 
-    &__card02{
+    &__card02 {
       background-color: #00474b;
       width: 50%;
     }
