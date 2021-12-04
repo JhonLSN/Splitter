@@ -1,6 +1,6 @@
 .main {
   &-wrapper {
-    width: 50%;
+    width: 60%;
     margin: 0 auto;
     background: #fff;
     padding: 40px;
@@ -60,7 +60,7 @@
           display: flex;
           flex-wrap: wrap;
 
-          &-one{
+          &-one {
             background-color: #00474b;
             padding: 12px 7px;
             color: #fff;
@@ -72,8 +72,8 @@
             font-weight: bold;
             border-radius: 5px;
           }
-          
-          &-two{
+
+          &-two {
             background-color: #00474b;
             padding: 12px 7px;
             color: #fff;
@@ -85,8 +85,8 @@
             font-weight: bold;
             border-radius: 5px;
           }
-          
-          &-three{
+
+          &-three {
             background-color: #00474b;
             padding: 12px 7px;
             color: #fff;
@@ -98,8 +98,8 @@
             font-weight: bold;
             border-radius: 5px;
           }
-          
-          &-for{
+
+          &-for {
             background-color: #00474b;
             padding: 12px 7px;
             color: #fff;
@@ -111,8 +111,8 @@
             font-weight: bold;
             border-radius: 5px;
           }
-          
-          &-five{
+
+          &-five {
             background-color: #00474b;
             padding: 12px 7px;
             color: #fff;
@@ -124,8 +124,8 @@
             font-weight: bold;
             border-radius: 5px;
           }
-          
-          &--change{
+
+          &--change {
             border: 2px solid #f3f8fb;
             background: #f3f8fb;
             padding: 8px 7px;
@@ -190,7 +190,56 @@
 
     &__card02 {
       background-color: #00474b;
-      width: 50%;
+      width: 40%;
+      border-radius: 20px;
+      padding: 40px;
+
+      &__tip-amount {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        &-information {
+          color: #fff;
+          font-size: 0.9rem;
+
+          & span {
+            color: #63999c;
+          }
+        }
+
+        &-result {
+          color: #24c8b0;
+          font-size: 1.4rem;
+        }
+      }
+
+      &__total {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 50px;
+        margin-bottom: 109px;
+
+        &-information {
+          color: #fff;
+          font-size: 0.9rem;
+
+          & span {
+            color: #63999c;
+          }
+        }
+
+        &-result {
+          color: #24c8b0;
+          font-size: 1.4rem;
+        }
+      }
+
+      &__btn-reset {
+        width: 100%;
+        padding: 10px 0;
+      }
     }
   }
 }
