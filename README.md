@@ -8,7 +8,7 @@
 <p>
 
 <h1 align="center" display="flex">
-  <img src="https://user-images.githubusercontent.com/80855598/144759716-adb70140-078a-485e-97eb-3fd2159ba6f0.png" width="80%" alt="Validação de CPF" title="Validação de CPF">
+  <img src="https://user-images.githubusercontent.com/80855598/144759716-adb70140-078a-485e-97eb-3fd2159ba6f0.png" width="80%" alt="Splitter" title="Splitter">
 </h1>
 
 ## :book: Sobre
@@ -20,6 +20,8 @@ O projeto foi criado com o intuito de facilitar o cáculo e a distribuição de 
 
 Nela contêm o recurso de: 
 - Calcular a gorjeta.
+- Escolher gorcentagem de valores.
+- Redefinir números.
 
 ## :hammer: Tecnologias
 Este projeto foi feito com as seguintes tecnologias:
