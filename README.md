@@ -1,4 +1,4 @@
-<h1 align="center">Divisor de Gorjetas</h1>
+<h1 align="center">Divisor de Gorjetas </h1>
 
 <p align="center">
   <a href="#book-sobre">Sobre</a>
