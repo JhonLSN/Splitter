@@ -20,7 +20,7 @@ O projeto foi criado com o intuito de facilitar o cáculo e a distribuição de 
 
 Nela contêm o recurso de: 
 - Calcular a gorjeta.
-- Escolher gorcentagem de valores.
+- Escolher porcentagem de valores.
 - Redefinir números.
 
 ## :hammer: Tecnologias
@@ -31,5 +31,5 @@ Este projeto foi feito com as seguintes tecnologias:
 - SASS
 
 <p align="center">
-  
+  Acesse o projeto [Clicando Aqui](https://jhonlsn.github.io/Splitter/)
 <p/>
