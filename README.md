@@ -8,18 +8,18 @@
 <p>
 
 <h1 align="center" display="flex">
-  <img src="https://user-images.githubusercontent.com/80855598/144461973-8217f069-9078-401f-b5bf-cf171382c011.png" width="80%" alt="Validação de CPF" title="Validação de CPF">
+  <img src="https://user-images.githubusercontent.com/80855598/144759716-adb70140-078a-485e-97eb-3fd2159ba6f0.png" width="80%" alt="Validação de CPF" title="Validação de CPF">
 </h1>
 
 ## :book: Sobre
 Este repositório contêm a aplicação Splitter.
 
-A aplicação é uma plataforma que faz a validação de CPF.
+A aplicação é uma plataforma que faz o cáculo de gorjetas.
 Ela foi criada do zero, além dos códigos que foram feitos por mim.
-O projeto foi criado com o intuito de facilitar na verificação informando se o CPF é válido ou não.
+O projeto foi criado com o intuito de facilitar o cáculo e a distribuição de gorjetas.
 
 Nela contêm o recurso de: 
-- Validar CPF.
+- Calcular a gorjeta.
 
 ## :hammer: Tecnologias
 Este projeto foi feito com as seguintes tecnologias:
