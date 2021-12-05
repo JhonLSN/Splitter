@@ -1,4 +1,4 @@
-<h1 align="center">Validação de CPF</h1>
+<h1 align="center">Divisor de Gorjetas</h1>
 
 <p align="center">
   <a href="#book-sobre">Sobre</a>
@@ -12,7 +12,7 @@
 </h1>
 
 ## :book: Sobre
-Este repositório contêm a aplicação de Validação de CPF.
+Este repositório contêm a aplicação Splitter.
 
 A aplicação é uma plataforma que faz a validação de CPF.
 Ela foi criada do zero, além dos códigos que foram feitos por mim.
