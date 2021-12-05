@@ -20,7 +20,7 @@ O projeto foi criado com o intuito de facilitar o cáculo e a distribuição de 
 
 Nela contêm o recurso de: 
 - Calcular a gorjeta.
-- Escolher porcentagem de valores.
+- Escolher porcentagem de valores. 
 - Redefinir números.
 
 ## :hammer: Tecnologias
