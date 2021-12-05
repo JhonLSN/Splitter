@@ -30,6 +30,4 @@ Este projeto foi feito com as seguintes tecnologias:
 - JavaScript
 - SASS
 
-<p align="center">
-  Acesse o projeto [Clicando Aqui](https://jhonlsn.github.io/Splitter/)
-<p/>
+Acesse o projeto[Clicando Aqui](https://jhonlsn.github.io/Splitter/)
