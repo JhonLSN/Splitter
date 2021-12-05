@@ -27,7 +27,7 @@ Nela contêm o recurso de:
 Este projeto foi feito com as seguintes tecnologias:
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript 
 - SASS
 
 Acesse o projeto [Clicando Aqui](https://jhonlsn.github.io/Splitter/)
